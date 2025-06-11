@@ -9,3 +9,5 @@ A simple terminal-based Hangman game built in Python.
 - Conditional logic
 - ASCII art
 - Lists and strings
+
+
